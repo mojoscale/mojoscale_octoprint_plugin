@@ -1,0 +1,4 @@
+include README.md
+recursive-include mojoscale_octoprint_plugin/templates *
+recursive-include mojoscale_octoprint_plugin/translations *
+recursive-include mojoscale_octoprint_plugin/static *
